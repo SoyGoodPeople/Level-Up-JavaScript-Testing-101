@@ -11,7 +11,7 @@ test("add", () => {
 
 
 // Integration test
-// Because it's about code working togeder
+// Because it's about code working together
 test("total", () => {
   expect(total(5, 20)).toBe('$25');
 });
